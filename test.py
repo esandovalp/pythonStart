@@ -1,2 +1,1 @@
-print('hi')
-print ('please help')
+print(100)
