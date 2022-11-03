@@ -1,1 +1,7 @@
-print(100)
+print('so this works')
+print("and this works")
+print('so it doesnt matter')
+print('but i think this does look better')
+print('test')
+print (1000)
+print ('perfect, now i need to learn')
