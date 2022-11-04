@@ -1,8 +1,11 @@
-print('so this works')
-print("and this works")
-print('so it doesnt matter')
-print('but i think this does look better')
-print('test')
-print (1000)
-print ('perfect, now i need to learn')
-print('dracula is my favorite theme')
+from array import *
+
+identityMatrix = [[1,0,0],[0,1,0],[0,0,1]]
+
+for i in identityMatrix:
+   for j in i:
+      print(i, end = " ")
+   print()
+
+# why is it printing three times ?
+
